@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1024 1024" width="128" height="128">
+    <g transform="translate(153.6 153.6) scale(0.7)">
+        <path
+            d="M701.131 73.143L950.857 322.868V950.857H73.143V73.143h627.988M731.429 0H0v1024h1024V292.571L731.429 0zM585.143 73.143h-73.143v146.286H292.571V73.143h-73.143v219.428h365.714V73.143zm219.428 512H219.429v365.714h73.143V658.286h438.857v292.571h73.143V585.143z"
+            stroke="#55ffff" fill="none" stroke-width="0.8" vector-effect="non-scaling-stroke" />
+    </g>
+</svg>
